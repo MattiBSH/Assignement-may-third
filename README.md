@@ -1,9 +1,11 @@
 # Assignement-may-third
-2. The K means and db scan algorithm are good to use with very large datasets.
+2
+The K means and db scan algorithm are good to use with very large datasets.
 
 k means assumes that the data is roughly equal, so it's a good idea to use data with similar category sizes or somehow normalize the data. DB scan is very fast and can therefore handle large amounts of data.v
 
-3. Clustering is when you take data and divide it into groups so that the data points of data have more in common with other group members than the other groups of data.
+3. 
+Clustering is when you take data and divide it into groups so that the data points of data have more in common with other group members than the other groups of data.
 
 4. 
 The elbow method is the first one.
